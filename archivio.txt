@@ -1,0 +1,10 @@
+408401=Rivista{codiceIsbn='408401', titolo='Surprised by Joy', annoPubblicazione=2008, numeroPagine=211, periodicita='SETTIMANALE'}
+333383=Libro{codiceIsbn='333383', titolo='In a Glass Darkly', annoPubblicazione=1940, numeroPagine=223, autore='Erminio De luca', genere='Western'}
+76403=Libro{codiceIsbn='76403', titolo='Recalled to Life', annoPubblicazione=2003, numeroPagine=380, autore='Vinicio Esposito', genere='Metafiction'}
+448992=Libro{codiceIsbn='448992', titolo='The Last Temptation', annoPubblicazione=1969, numeroPagine=87, autore='Siro Palmieri', genere='Textbook'}
+300592=Libro{codiceIsbn='300592', titolo='Things Fall Apart', annoPubblicazione=1932, numeroPagine=24, autore='Sabino Guerra', genere='Western'}
+230371=Rivista{codiceIsbn='230371', titolo='An Instant In The Wind', annoPubblicazione=1907, numeroPagine=22, periodicita='SETTIMANALE'}
+201457=Rivista{codiceIsbn='201457', titolo='Rosemary Sutcliff', annoPubblicazione=2016, numeroPagine=672, periodicita='SETTIMANALE'}
+235802=Rivista{codiceIsbn='235802', titolo='A Farewell to Arms', annoPubblicazione=1964, numeroPagine=264, periodicita='SETTIMANALE'}
+463026=Libro{codiceIsbn='463026', titolo='The Yellow Meads of Asphodel', annoPubblicazione=2013, numeroPagine=611, autore='Nestore Caputo', genere='Fantasy'}
+321278=Rivista{codiceIsbn='321278', titolo='Cabbages and Kings', annoPubblicazione=2005, numeroPagine=335, periodicita='SETTIMANALE'}
